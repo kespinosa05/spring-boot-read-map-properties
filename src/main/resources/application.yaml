@@ -1,0 +1,5 @@
+countries:
+    default_value: ES
+    languages:
+      AR: ES
+      ES: ES
